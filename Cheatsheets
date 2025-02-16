@@ -1,0 +1,78 @@
+# Data Science Cheatsheets
+
+Welcome to the Data Science Cheatsheets section! This section contains concise and practical cheatsheets for various data science topics. These resources are designed to help you prepare for interviews and learn essential concepts quickly.
+
+## Categories
+
+1. **[SQL](#sql)**
+2. [Statistics and Probability](#statistics-and-probability)
+3. [Mathematics](#mathematics)
+4. [Machine Learning Concepts](#machine-learning-concepts)
+5. [Deep Learning Concepts](#deep-learning-concepts)
+6. [Supervised Learning](#supervised-learning)
+7. [Unsupervised Learning](#unsupervised-learning)
+8. [Computer Vision](#computer-vision)
+9. [Natural Language Processing](#natural-language-processing)
+10. [Stanford Materials](#stanford-materials)
+
+---
+
+## SQL
+This section covers SQL queries and commands for data retrieval, modification, and reporting.
+
+- [Finding Data Queries](SQL/Finding-Data-Queries.md)
+- [Data Modification Queries](SQL/Data-Modification-Queries.md)
+- [Reporting Queries](SQL/Reporting-Queries.md)
+- [Join Queries](SQL/Join-Queries.md)
+- [View Queries](SQL/View-Queries.md)
+- [Altering Table Queries](SQL/Altering-Table-Queries.md)
+- [Creating Table Query](SQL/Creating-Table-Query.md)
+
+---
+
+## Statistics and Probability
+Coming soon!
+
+---
+
+## Mathematics
+Coming soon!
+
+---
+
+## Machine Learning Concepts
+Coming soon!
+
+---
+
+## Deep Learning Concepts
+Coming soon!
+
+---
+
+## Supervised Learning
+Coming soon!
+
+---
+
+## Unsupervised Learning
+Coming soon!
+
+---
+
+## Computer Vision
+Coming soon!
+
+---
+
+## Natural Language Processing
+Coming soon!
+
+---
+
+## Stanford Materials
+Coming soon!
+
+---
+
+[Back to Top](#data-science-cheatsheets)
